@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f6f6f6;
+}
+
+.container {
+    width: 80%;
+    margin: 50px auto;
+}
+
+.drop-zone {
+    border: 2px dashed #ccc;
+    width: 100%;
+    min-height: 250px;
+    text-align: center;
+    line-height: 250px;
+}
+
+.drop-zone .message {
+    display: inline-block;
+}
